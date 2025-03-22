@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mansour Al-Dadah</string>
+    <string name="open">Open</string>
+    <string name="todo">TODO</string>
+    <string name="recent">Recent</string>
+    <string name="shared">Shared</string>
+    <string name="connect_to_cloud_storage">connect to cloud storage</string>
+    <string name="add_a_place">Add a Place</string>
+    <string name="google_drive_sd_card_and_more">Google Drive , SD card , and more</string>
+    <string name="browse">Browse</string>
+    <string name="this_device">This device</string>
+    <string name="shared_with_me">Shared with me</string>
+    <string name="places">Places</string>
+</resources>
